@@ -1,8 +1,94 @@
 .gambar{
+	/*background pertama*/
 	background-image: url(program1.jpg);
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
+    opacity: 0.8
+}
+
+.round-button {
+	/*play button*/
+	box-sizing: border-box;
+	display:block;
+	width:80px;
+	height:80px;
+	padding-top: 14px;
+	padding-left: 8px;
+	line-height: 20px;
+	border: 6px solid #fff;
+	border-radius: 50%;
+	color:#f5f5f5;
+	text-align:center;
+	text-decoration:none;
+	background-color: rgba(0,0,0,0.5);
+	font-size:20px;
+	font-weight:bold;
+	transition: all 0.3s ease;
+}
+
+.daftar{
+	/*button*/
+	background-color: blue;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 40px;
+
+
+}
+
+.bgr{
+	/*apa itu edutech*/
+	background-color: yellow;
+}
+
+.gambar2{
+	/*background 2*/
+	background-image: url(program2.jpeg);
+	color: white;
+	min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.8;
+}
+
+.kuning{
+	/*pelajari di edutech*/
+	background-color: yellow;
+}
+
+.bgr2{
+	/*background 3*/
+	background-image: url(program3.jpg);
+	min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.8;
+}
+
+.kotak{
+	/*background putih content*/
+	width: 100px;
+	height: 200px;
+	background-color: white;
+	color: black
+}
+
+.kuning2{
+	background-color: yellow;
 }
