@@ -80,3 +80,37 @@ divThird7.className = "col-md-6 mt-5 mb-5"
 
 var divThird8 = document.querySelectorAll('div')[14]
 divThird8.className = "col-md-6"
+
+
+
+
+var divFour1 = document.querySelectorAll('div')[19]
+divFour1.className = "container-fluid bgr2"
+
+var divFour2 = document.querySelectorAll('div')[20]
+divFour2.className = "garis"
+
+var divFour3 = document.querySelectorAll('div')[21]
+divFour3.className = "row"
+
+var divFour4 = document.querySelectorAll('div')[22]
+divFour4.className = "col-md-4 kotak"
+
+var divFour5 = document.querySelectorAll('div')[23]
+divFour5.className = "col-md-6 kotak2"
+
+var divFour6 =document.querySelectorAll('div')[24]
+divFour6.className  = "row"
+
+var divFour7 =document.querySelectorAll('div')[25]
+divFour7.className = "col-md-6 kotak2"
+
+var divFour8 = document.querySelectorAll('div')[26]
+divFour8.className = "col-md-4 kotak"
+
+var divFour9 = document.querySelectorAll('div')[27]
+divFour9.className = "row"
+
+var divFour10 = document.querySelectorAll('div')[28]
+divFour10.className = "col-md-4 kotak"
+
