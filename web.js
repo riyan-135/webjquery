@@ -2,6 +2,7 @@
 var first_a = document.querySelectorAll('div')[0]
 first_a.className = "container-fluid gambar"
 
+// css konten 1
 var first_aCSS = document.querySelector('.gambar')
 first_aCSS.style.backgroundImage = "url(program1.jpg)"
 first_aCSS.style.minHeight = "500px"
@@ -26,6 +27,7 @@ first_h1.className = "display-3"
 var second_h1 = document.querySelectorAll('h1')[1]
 second_h1.className = "display-3"
 
+// css button
     var first_button = document.querySelectorAll('button')[0]
     first_button.className = "daftar"
     first_button.style.backgroundColor = "blue"
@@ -39,6 +41,7 @@ second_h1.className = "display-3"
     first_button.style.margin = "4px 2px"
     first_button.style.borderRadius = "40px"
 
+    // css icon play
 var first_i = document.querySelectorAll('i')[0]
 first_i.className = "fa fa-play-circle"
 first_i.style.fontSize = "72px"
