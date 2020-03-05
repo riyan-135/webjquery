@@ -66,3 +66,17 @@ divThird1.style.opacity = "0.8"
 var divThird2 = document.querySelectorAll('div')[9]
 divThird2.className = "row"
 
+var divThird3 = document.querySelectorAll('div')[10]
+divThird3.className = "col-md-6 mt-5 mb-5"
+
+var divThird4 =document.querySelectorAll('div')[11]
+divThird4.className = "col-md-6 mt-5 mb-5" 
+
+var divThird6 = document.querySelectorAll('div')[12]
+divThird6.className = "row"
+
+var divThird7 =document.querySelectorAll('div')[13]
+divThird7.className = "col-md-6 mt-5 mb-5"
+
+var divThird8 = document.querySelectorAll('div')[14]
+divThird8.className = "col-md-6"
