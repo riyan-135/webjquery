@@ -4,19 +4,6 @@
 	background-color: yellow;
 }
 
-.gambar2{
-	/*background 2*/
-	background-image: url(program2.jpeg);
-	color: white;
-	min-height: 500px; 
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    opacity: 0.8;
-}
-
 .kuning{
 	/*pelajari di edutech*/
 	background-color: yellow;

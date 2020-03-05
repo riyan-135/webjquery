@@ -48,3 +48,21 @@ first_i.style.fontSize = "72px"
 first_i.style.color = "white"
 
 // konten 1 selesai //
+
+// konten 3
+
+var divThird1 = document.querySelectorAll('div')[8]
+divThird1.className = "container-fluid gambar2"
+divThird1.style.backgroundImage = "url(program2.jpeg)"
+divThird1.style.color = "white"
+divThird1.style.minHeight = "500px"
+divThird1.style.backgroundAttachment = "fixed"
+divThird1.style.backgroundPosition = "center"
+divThird1.style.backgroundRepeat = "no-repeat"
+divThird1.style.backgroundSize = "cover"
+divThird1.style.opacity = "0.8"
+
+
+var divThird2 = document.querySelectorAll('div')[9]
+divThird2.className = "row"
+
