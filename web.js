@@ -122,3 +122,9 @@ divFour9.className = "row"
 
 var divFour10 = document.querySelectorAll('div')[28]
 divFour10.className = "col-md-4 kotak"
+
+var divFour14 = document.querySelectorAll('div')[32]
+divFour14.className = "col-md-4 kotak"
+
+var divFour15 = document.querySelectorAll('div')[34]
+divFour15.className ="col-md-4 kotak mb-5"
