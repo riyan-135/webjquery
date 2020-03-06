@@ -1,0 +1,119 @@
+.gambar{
+	/*background pertama*/
+	background-image: url(program1.jpg);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.8
+}
+
+.daftar{
+	/*button*/
+	background-color: blue;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 40px;
+
+
+}
+
+.bgr{
+	/*apa itu edutech*/
+	background-color: yellow;
+}
+
+.gambar2{
+	/*background 2*/
+	background-image: url(program2.jpeg);
+	color: white;
+	min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.8;
+}
+
+.kuning{
+	/*pelajari di edutech*/
+	background-color: yellow;
+}
+
+.bgr2{
+	/*background 3*/
+	background-image: url(program3.jpg);
+	min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.8;
+}
+
+.kotak{
+	/*background putih content*/
+	width: 100px;
+	height: 200px;
+	background-color: white;
+	color: black
+}
+
+.kuning2{
+	/*apa kata mereka*/
+	background-color: yellow;
+}
+
+.bgr3{
+	background-image: url(program4.jpg);
+	min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.8;
+}
+
+.kuning3 {
+    background-color: yellow;
+}
+
+.tahap {
+    background: url(program4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+
+.karir{
+    background-color: #dddd;
+}
+
+.daftar {
+    border-radius: 5px solid;
+}
+
+.cukup{
+    background: url(program3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px;
+    color: white;
+}
+
+.foot {
+    background-color: #808080;
+    color: white;
+}
