@@ -9,18 +9,6 @@
 	background-color: yellow;
 }
 
-.bgr2{
-	/*background 3*/
-	background-image: url(program3.jpg);
-	min-height: 500px; 
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    opacity: 0.8;
-}
-
 .kotak{
 	/*background putih content*/
 	width: 100px;

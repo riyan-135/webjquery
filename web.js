@@ -87,6 +87,14 @@ divThird8.className = "col-md-6"
 
 var divFour1 = document.querySelectorAll('div')[19]
 divFour1.className = "container-fluid bgr2"
+divFour1.style.backgroundImage = "url(program3.jpg)"
+divFour1.style.minHeight = "500px"
+divFour1.style.backgroundAttachment = "fixed"
+divFour1.style.backgroundPosition = "center"
+divFour1.style.backgroundRepeat = "no-repat"
+divFour1.style.backgroundSize = "cover"
+divFour1.style.color = "white"
+divFour1.style.opacity = "0.8"
 
 var divFour2 = document.querySelectorAll('div')[20]
 divFour2.className = "garis"
